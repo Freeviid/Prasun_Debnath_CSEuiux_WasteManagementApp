@@ -1,32 +1,74 @@
 # Prasun_Debnath_CSEuiux_WasteManagementApp
 
 
-# Waste Management App
 
 
 
 
-# EcoPlay – Waste Management Advisory Platform
 
-## Team Members
-- Prasun Debnath (2401360001)
-- Bhavishya Yadav (2401360028)
-- 
+# ECOPLAY – A Sustainable Waste Management App
 
-## Project Description
-**EcoPlay** is a web-based waste management advisory platform that empowers individuals and households to reduce their environmental footprint. It combines an AI-powered waste reduction assessment tool with an interactive map interface to locate nearby recycling centers. The platform provides actionable, personalized tips and local solutions to help users manage waste more effectively and sustainably.
+## 👥 Team Members
+- Prasun
+- Bhavishay Yadav
+- Yashaswa Srivastava
+- Tanmay Nagpal
 
-## 🔗 Video Explanation
-[Watch the Project Walkthrough](#) *(Insert YouTube or Drive link here)*
+## 🧩 Problem Statement
+India generates over 62 million tons of waste annually, yet much of it remains unmanaged or mismanaged.  
+Lack of awareness, tools, and incentives leads to poor disposal habits, environmental pollution, and health hazards.
+
+## 🎯 Objective
+To build a mobile application that makes waste reduction engaging, educational, and accessible — enabling users to understand their habits, track improvements, and find sustainable alternatives easily.
+
+---
+
+## 📝 Project Description
+**ECOPLAY** is a gamified mobile app that combines AI, interactive tools, and location services to help individuals reduce their daily waste.  
+It features:
+- A dynamic AI-powered waste reduction questionnaire
+- Personalized tips and goal-setting
+- A live map to locate nearby recycling centers
+- A gamified experience that rewards eco-friendly actions
+
+---
+
+## 🔬 Research & Insights
+- **User Behavior**: Most people are aware waste is an issue, but lack actionable guidance tailored to them.
+- **Market Gap**: Existing apps are either too technical or lack engagement features.
+- **Data Sources**: Based on studies from CPCB (Central Pollution Control Board) and UN waste reports.
+- **Design Inspiration**: Simple, clean UX similar to government portals and sustainability apps.
+
+---
+
+## ⚙️ Methodology
+
+1. **Problem Analysis** – Identified gaps in current waste management awareness and engagement.
+2. **Solution Design** – Planned app features: quiz, gamification, tracking, maps.
+3. **Development** – Built using Flutter, integrated Firebase and Leaflet.js.
+4. **Testing** – Evaluated usability and responsiveness on different devices.
+5. **Presentation** – Created a video walkthrough and this documentation.
+
+---
+
+## 📽️ Video Explanation
+[▶️ Click here to watch our project video](https://your-link-here.com)  
+*(Replace with your actual Drive or YouTube link)*
+
+---
 
 ## 🛠️ Technologies Used
-- **HTML, CSS, JavaScript** – Core front-end development
-- **OpenAI API** – For generating AI-driven waste reduction advice
-- **Leaflet.js** – To render interactive maps and show recycling centers
-- **Geolocation API** – To determine user's location for map rendering
-- **Responsive Web Design** – Mobile-friendly layout using Flexbox/Grid
+- **Flutter** – Cross-platform app development  
+- **Firebase** – Authentication, Firestore, and hosting  
+- **Leaflet.js + OpenStreetMap** – For locating nearby recycling centers  
+- **OpenAI API** – For personalized waste reduction suggestions  
+- **Figma** – For UI/UX wireframes and prototyping  
 
-## ▶️ How to Run the Project
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/ecoplay.git
+---
+
+## 🚀 How to Run the Project
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/ecoplay.git
+cd ecoplay
