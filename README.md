@@ -9,7 +9,7 @@
 # ECOPLAY – A Sustainable Waste Management App
 
 ## 👥 Team Members
-- Prasun
+- Prasun Debnath
 - Bhavishay Yadav
 - Yashaswa Srivastava
 - Tanmay Nagpal
@@ -52,8 +52,8 @@ It features:
 ---
 
 ## 📽️ Video Explanation
-[▶️ Click here to watch our project video](https://your-link-here.com)  
-*(Replace with your actual Drive or YouTube link)*
+[▶️ Click here to watch our project video]([https://your-link-here.com](https://drive.google.com/file/d/1olc5RKDPeA8x5O5UOLtSK-gKVnvtxG90/view?usp=sharing))  
+
 
 ---
 
