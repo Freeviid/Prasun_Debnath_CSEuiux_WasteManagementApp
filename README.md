@@ -52,7 +52,7 @@ It features:
 ---
 
 ## 📽️ Video Explanation
-[▶️ Click here to watch our project video]([https://your-link-here.com](https://drive.google.com/file/d/1olc5RKDPeA8x5O5UOLtSK-gKVnvtxG90/view?usp=sharing))  
+[▶️ Click here to watch our project video](https://drive.google.com/file/d/1olc5RKDPeA8x5O5UOLtSK-gKVnvtxG90/view?usp=sharing)
 
 
 ---
