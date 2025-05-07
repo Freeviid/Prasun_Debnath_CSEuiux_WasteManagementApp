@@ -58,17 +58,11 @@ It features:
 ---
 
 ## 🛠️ Technologies Used
-- **Flutter** – Cross-platform app development  
-- **Firebase** – Authentication, Firestore, and hosting  
+- **HTML CSS** – web development  
+- **JS** – Providing tips
 - **Leaflet.js + OpenStreetMap** – For locating nearby recycling centers  
-- **OpenAI API** – For personalized waste reduction suggestions  
-- **Figma** – For UI/UX wireframes and prototyping  
+
 
 ---
 
-## 🚀 How to Run the Project
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/ecoplay.git
-cd ecoplay
